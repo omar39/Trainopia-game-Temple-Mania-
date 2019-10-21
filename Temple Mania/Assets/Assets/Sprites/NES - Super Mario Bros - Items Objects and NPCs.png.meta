@@ -1,0 +1,1517 @@
+fileFormatVersion: 2
+guid: 563d93e6ea9c9d24c8589b2e080a5031
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: NES - Super Mario Bros - Items Objects and NPCs_0
+  - first:
+      213: 21300002
+    second: NES - Super Mario Bros - Items Objects and NPCs_1
+  - first:
+      213: 21300004
+    second: NES - Super Mario Bros - Items Objects and NPCs_2
+  - first:
+      213: 21300006
+    second: NES - Super Mario Bros - Items Objects and NPCs_3
+  - first:
+      213: 21300008
+    second: NES - Super Mario Bros - Items Objects and NPCs_4
+  - first:
+      213: 21300010
+    second: NES - Super Mario Bros - Items Objects and NPCs_5
+  - first:
+      213: 21300012
+    second: NES - Super Mario Bros - Items Objects and NPCs_6
+  - first:
+      213: 21300014
+    second: NES - Super Mario Bros - Items Objects and NPCs_7
+  - first:
+      213: 21300016
+    second: NES - Super Mario Bros - Items Objects and NPCs_8
+  - first:
+      213: 21300018
+    second: NES - Super Mario Bros - Items Objects and NPCs_9
+  - first:
+      213: 21300020
+    second: NES - Super Mario Bros - Items Objects and NPCs_10
+  - first:
+      213: 21300022
+    second: NES - Super Mario Bros - Items Objects and NPCs_11
+  - first:
+      213: 21300024
+    second: NES - Super Mario Bros - Items Objects and NPCs_12
+  - first:
+      213: 21300026
+    second: NES - Super Mario Bros - Items Objects and NPCs_13
+  - first:
+      213: 21300028
+    second: NES - Super Mario Bros - Items Objects and NPCs_14
+  - first:
+      213: 21300030
+    second: NES - Super Mario Bros - Items Objects and NPCs_15
+  - first:
+      213: 21300032
+    second: NES - Super Mario Bros - Items Objects and NPCs_16
+  - first:
+      213: 21300034
+    second: NES - Super Mario Bros - Items Objects and NPCs_17
+  - first:
+      213: 21300036
+    second: NES - Super Mario Bros - Items Objects and NPCs_18
+  - first:
+      213: 21300038
+    second: NES - Super Mario Bros - Items Objects and NPCs_19
+  - first:
+      213: 21300040
+    second: NES - Super Mario Bros - Items Objects and NPCs_20
+  - first:
+      213: 21300042
+    second: NES - Super Mario Bros - Items Objects and NPCs_21
+  - first:
+      213: 21300044
+    second: NES - Super Mario Bros - Items Objects and NPCs_22
+  - first:
+      213: 21300046
+    second: NES - Super Mario Bros - Items Objects and NPCs_23
+  - first:
+      213: 21300048
+    second: NES - Super Mario Bros - Items Objects and NPCs_24
+  - first:
+      213: 21300050
+    second: NES - Super Mario Bros - Items Objects and NPCs_25
+  - first:
+      213: 21300052
+    second: NES - Super Mario Bros - Items Objects and NPCs_26
+  - first:
+      213: 21300054
+    second: NES - Super Mario Bros - Items Objects and NPCs_27
+  - first:
+      213: 21300056
+    second: NES - Super Mario Bros - Items Objects and NPCs_28
+  - first:
+      213: 21300058
+    second: NES - Super Mario Bros - Items Objects and NPCs_29
+  - first:
+      213: 21300060
+    second: NES - Super Mario Bros - Items Objects and NPCs_30
+  - first:
+      213: 21300062
+    second: NES - Super Mario Bros - Items Objects and NPCs_31
+  - first:
+      213: 21300064
+    second: NES - Super Mario Bros - Items Objects and NPCs_32
+  - first:
+      213: 21300066
+    second: NES - Super Mario Bros - Items Objects and NPCs_33
+  - first:
+      213: 21300068
+    second: NES - Super Mario Bros - Items Objects and NPCs_34
+  - first:
+      213: 21300070
+    second: NES - Super Mario Bros - Items Objects and NPCs_35
+  - first:
+      213: 21300072
+    second: NES - Super Mario Bros - Items Objects and NPCs_36
+  - first:
+      213: 21300074
+    second: NES - Super Mario Bros - Items Objects and NPCs_37
+  - first:
+      213: 21300076
+    second: NES - Super Mario Bros - Items Objects and NPCs_38
+  - first:
+      213: 21300078
+    second: NES - Super Mario Bros - Items Objects and NPCs_39
+  - first:
+      213: 21300080
+    second: NES - Super Mario Bros - Items Objects and NPCs_40
+  - first:
+      213: 21300082
+    second: NES - Super Mario Bros - Items Objects and NPCs_41
+  - first:
+      213: 21300084
+    second: NES - Super Mario Bros - Items Objects and NPCs_42
+  - first:
+      213: 21300086
+    second: NES - Super Mario Bros - Items Objects and NPCs_43
+  - first:
+      213: 21300088
+    second: NES - Super Mario Bros - Items Objects and NPCs_44
+  - first:
+      213: 21300090
+    second: NES - Super Mario Bros - Items Objects and NPCs_45
+  - first:
+      213: 21300092
+    second: NES - Super Mario Bros - Items Objects and NPCs_46
+  - first:
+      213: 21300094
+    second: NES - Super Mario Bros - Items Objects and NPCs_47
+  - first:
+      213: 21300096
+    second: NES - Super Mario Bros - Items Objects and NPCs_48
+  - first:
+      213: 21300098
+    second: NES - Super Mario Bros - Items Objects and NPCs_49
+  - first:
+      213: 21300100
+    second: NES - Super Mario Bros - Items Objects and NPCs_50
+  - first:
+      213: 21300102
+    second: NES - Super Mario Bros - Items Objects and NPCs_51
+  - first:
+      213: 21300104
+    second: NES - Super Mario Bros - Items Objects and NPCs_52
+  - first:
+      213: 21300106
+    second: NES - Super Mario Bros - Items Objects and NPCs_53
+  - first:
+      213: 21300108
+    second: NES - Super Mario Bros - Items Objects and NPCs_54
+  - first:
+      213: 21300110
+    second: NES - Super Mario Bros - Items Objects and NPCs_55
+  - first:
+      213: 21300112
+    second: NES - Super Mario Bros - Items Objects and NPCs_56
+  - first:
+      213: 21300114
+    second: NES - Super Mario Bros - Items Objects and NPCs_57
+  - first:
+      213: 21300116
+    second: NES - Super Mario Bros - Items Objects and NPCs_58
+  - first:
+      213: 21300118
+    second: NES - Super Mario Bros - Items Objects and NPCs_59
+  - first:
+      213: 21300120
+    second: NES - Super Mario Bros - Items Objects and NPCs_60
+  - first:
+      213: 21300122
+    second: NES - Super Mario Bros - Items Objects and NPCs_61
+  - first:
+      213: 21300124
+    second: NES - Super Mario Bros - Items Objects and NPCs_62
+  - first:
+      213: 21300126
+    second: NES - Super Mario Bros - Items Objects and NPCs_63
+  - first:
+      213: 21300128
+    second: NES - Super Mario Bros - Items Objects and NPCs_64
+  - first:
+      213: 21300130
+    second: NES - Super Mario Bros - Items Objects and NPCs_65
+  - first:
+      213: 21300132
+    second: NES - Super Mario Bros - Items Objects and NPCs_66
+  - first:
+      213: 21300134
+    second: NES - Super Mario Bros - Items Objects and NPCs_67
+  - first:
+      213: 21300136
+    second: NES - Super Mario Bros - Items Objects and NPCs_68
+  - first:
+      213: 21300138
+    second: NES - Super Mario Bros - Items Objects and NPCs_69
+  - first:
+      213: 21300140
+    second: NES - Super Mario Bros - Items Objects and NPCs_70
+  - first:
+      213: 21300142
+    second: NES - Super Mario Bros - Items Objects and NPCs_71
+  - first:
+      213: 21300144
+    second: NES - Super Mario Bros - Items Objects and NPCs_72
+  - first:
+      213: 21300146
+    second: NES - Super Mario Bros - Items Objects and NPCs_73
+  - first:
+      213: 21300148
+    second: NES - Super Mario Bros - Items Objects and NPCs_74
+  - first:
+      213: 21300150
+    second: NES - Super Mario Bros - Items Objects and NPCs_75
+  - first:
+      213: 21300152
+    second: NES - Super Mario Bros - Items Objects and NPCs_76
+  - first:
+      213: 21300154
+    second: NES - Super Mario Bros - Items Objects and NPCs_77
+  - first:
+      213: 21300156
+    second: NES - Super Mario Bros - Items Objects and NPCs_78
+  - first:
+      213: 21300158
+    second: NES - Super Mario Bros - Items Objects and NPCs_79
+  - first:
+      213: 21300160
+    second: NES - Super Mario Bros - Items Objects and NPCs_80
+  - first:
+      213: 21300162
+    second: NES - Super Mario Bros - Items Objects and NPCs_81
+  - first:
+      213: 21300164
+    second: NES - Super Mario Bros - Items Objects and NPCs_82
+  - first:
+      213: 21300166
+    second: NES - Super Mario Bros - Items Objects and NPCs_83
+  - first:
+      213: 21300168
+    second: NES - Super Mario Bros - Items Objects and NPCs_84
+  - first:
+      213: 21300170
+    second: NES - Super Mario Bros - Items Objects and NPCs_85
+  - first:
+      213: 21300172
+    second: NES - Super Mario Bros - Items Objects and NPCs_86
+  - first:
+      213: 21300174
+    second: NES - Super Mario Bros - Items Objects and NPCs_87
+  - first:
+      213: 21300176
+    second: NES - Super Mario Bros - Items Objects and NPCs_88
+  - first:
+      213: 21300178
+    second: NES - Super Mario Bros - Items Objects and NPCs_89
+  - first:
+      213: 21300180
+    second: NES - Super Mario Bros - Items Objects and NPCs_90
+  - first:
+      213: 21300182
+    second: NES - Super Mario Bros - Items Objects and NPCs_91
+  - first:
+      213: 21300184
+    second: NES - Super Mario Bros - Items Objects and NPCs_92
+  - first:
+      213: 21300186
+    second: NES - Super Mario Bros - Items Objects and NPCs_93
+  - first:
+      213: 21300188
+    second: NES - Super Mario Bros - Items Objects and NPCs_94
+  - first:
+      213: 21300190
+    second: NES - Super Mario Bros - Items Objects and NPCs_95
+  - first:
+      213: 21300192
+    second: NES - Super Mario Bros - Items Objects and NPCs_96
+  - first:
+      213: 21300194
+    second: NES - Super Mario Bros - Items Objects and NPCs_97
+  - first:
+      213: 21300196
+    second: NES - Super Mario Bros - Items Objects and NPCs_98
+  - first:
+      213: 21300198
+    second: NES - Super Mario Bros - Items Objects and NPCs_99
+  - first:
+      213: 21300200
+    second: NES - Super Mario Bros - Items Objects and NPCs_100
+  - first:
+      213: 21300202
+    second: NES - Super Mario Bros - Items Objects and NPCs_101
+  - first:
+      213: 21300204
+    second: NES - Super Mario Bros - Items Objects and NPCs_102
+  - first:
+      213: 21300206
+    second: NES - Super Mario Bros - Items Objects and NPCs_103
+  - first:
+      213: 21300208
+    second: NES - Super Mario Bros - Items Objects and NPCs_104
+  - first:
+      213: 21300210
+    second: NES - Super Mario Bros - Items Objects and NPCs_105
+  - first:
+      213: 21300212
+    second: NES - Super Mario Bros - Items Objects and NPCs_106
+  - first:
+      213: 21300214
+    second: NES - Super Mario Bros - Items Objects and NPCs_107
+  - first:
+      213: 21300216
+    second: NES - Super Mario Bros - Items Objects and NPCs_108
+  - first:
+      213: 21300218
+    second: NES - Super Mario Bros - Items Objects and NPCs_109
+  - first:
+      213: 21300220
+    second: NES - Super Mario Bros - Items Objects and NPCs_110
+  - first:
+      213: 21300222
+    second: NES - Super Mario Bros - Items Objects and NPCs_111
+  - first:
+      213: 21300224
+    second: NES - Super Mario Bros - Items Objects and NPCs_112
+  - first:
+      213: 21300226
+    second: NES - Super Mario Bros - Items Objects and NPCs_113
+  - first:
+      213: 21300228
+    second: NES - Super Mario Bros - Items Objects and NPCs_114
+  - first:
+      213: 21300230
+    second: NES - Super Mario Bros - Items Objects and NPCs_115
+  - first:
+      213: 21300232
+    second: NES - Super Mario Bros - Items Objects and NPCs_116
+  - first:
+      213: 21300234
+    second: NES - Super Mario Bros - Items Objects and NPCs_117
+  - first:
+      213: 21300236
+    second: NES - Super Mario Bros - Items Objects and NPCs_118
+  - first:
+      213: 21300238
+    second: NES - Super Mario Bros - Items Objects and NPCs_119
+  - first:
+      213: 21300240
+    second: NES - Super Mario Bros - Items Objects and NPCs_120
+  - first:
+      213: 21300242
+    second: NES - Super Mario Bros - Items Objects and NPCs_121
+  - first:
+      213: 21300244
+    second: NES - Super Mario Bros - Items Objects and NPCs_122
+  - first:
+      213: 21300246
+    second: NES - Super Mario Bros - Items Objects and NPCs_123
+  - first:
+      213: 21300248
+    second: NES - Super Mario Bros - Items Objects and NPCs_124
+  - first:
+      213: 21300250
+    second: NES - Super Mario Bros - Items Objects and NPCs_125
+  - first:
+      213: 21300252
+    second: NES - Super Mario Bros - Items Objects and NPCs_126
+  - first:
+      213: 21300254
+    second: NES - Super Mario Bros - Items Objects and NPCs_127
+  - first:
+      213: 21300256
+    second: NES - Super Mario Bros - Items Objects and NPCs_128
+  - first:
+      213: 21300258
+    second: NES - Super Mario Bros - Items Objects and NPCs_129
+  - first:
+      213: 21300260
+    second: NES - Super Mario Bros - Items Objects and NPCs_130
+  - first:
+      213: 21300262
+    second: NES - Super Mario Bros - Items Objects and NPCs_131
+  - first:
+      213: 21300264
+    second: NES - Super Mario Bros - Items Objects and NPCs_132
+  - first:
+      213: 21300266
+    second: NES - Super Mario Bros - Items Objects and NPCs_133
+  - first:
+      213: 21300268
+    second: NES - Super Mario Bros - Items Objects and NPCs_134
+  - first:
+      213: 21300270
+    second: NES - Super Mario Bros - Items Objects and NPCs_135
+  - first:
+      213: 21300272
+    second: NES - Super Mario Bros - Items Objects and NPCs_136
+  - first:
+      213: 21300274
+    second: NES - Super Mario Bros - Items Objects and NPCs_137
+  - first:
+      213: 21300276
+    second: NES - Super Mario Bros - Items Objects and NPCs_138
+  - first:
+      213: 21300278
+    second: NES - Super Mario Bros - Items Objects and NPCs_139
+  - first:
+      213: 21300280
+    second: NES - Super Mario Bros - Items Objects and NPCs_140
+  - first:
+      213: 21300282
+    second: NES - Super Mario Bros - Items Objects and NPCs_141
+  - first:
+      213: 21300284
+    second: NES - Super Mario Bros - Items Objects and NPCs_142
+  - first:
+      213: 21300286
+    second: NES - Super Mario Bros - Items Objects and NPCs_143
+  - first:
+      213: 21300288
+    second: NES - Super Mario Bros - Items Objects and NPCs_144
+  - first:
+      213: 21300290
+    second: NES - Super Mario Bros - Items Objects and NPCs_145
+  - first:
+      213: 21300292
+    second: NES - Super Mario Bros - Items Objects and NPCs_146
+  - first:
+      213: 21300294
+    second: NES - Super Mario Bros - Items Objects and NPCs_147
+  - first:
+      213: 21300296
+    second: NES - Super Mario Bros - Items Objects and NPCs_148
+  - first:
+      213: 21300298
+    second: NES - Super Mario Bros - Items Objects and NPCs_149
+  - first:
+      213: 21300300
+    second: NES - Super Mario Bros - Items Objects and NPCs_150
+  - first:
+      213: 21300302
+    second: NES - Super Mario Bros - Items Objects and NPCs_151
+  - first:
+      213: 21300304
+    second: NES - Super Mario Bros - Items Objects and NPCs_152
+  - first:
+      213: 21300306
+    second: NES - Super Mario Bros - Items Objects and NPCs_153
+  - first:
+      213: 21300308
+    second: NES - Super Mario Bros - Items Objects and NPCs_154
+  - first:
+      213: 21300310
+    second: NES - Super Mario Bros - Items Objects and NPCs_155
+  - first:
+      213: 21300312
+    second: NES - Super Mario Bros - Items Objects and NPCs_156
+  - first:
+      213: 21300314
+    second: NES - Super Mario Bros - Items Objects and NPCs_157
+  - first:
+      213: 21300316
+    second: NES - Super Mario Bros - Items Objects and NPCs_158
+  - first:
+      213: 21300318
+    second: NES - Super Mario Bros - Items Objects and NPCs_159
+  - first:
+      213: 21300320
+    second: NES - Super Mario Bros - Items Objects and NPCs_160
+  - first:
+      213: 21300322
+    second: NES - Super Mario Bros - Items Objects and NPCs_161
+  - first:
+      213: 21300324
+    second: NES - Super Mario Bros - Items Objects and NPCs_162
+  - first:
+      213: 21300326
+    second: NES - Super Mario Bros - Items Objects and NPCs_163
+  - first:
+      213: 21300328
+    second: NES - Super Mario Bros - Items Objects and NPCs_164
+  - first:
+      213: 21300330
+    second: NES - Super Mario Bros - Items Objects and NPCs_165
+  - first:
+      213: 21300332
+    second: NES - Super Mario Bros - Items Objects and NPCs_166
+  - first:
+      213: 21300334
+    second: NES - Super Mario Bros - Items Objects and NPCs_167
+  - first:
+      213: 21300336
+    second: NES - Super Mario Bros - Items Objects and NPCs_168
+  - first:
+      213: 21300338
+    second: NES - Super Mario Bros - Items Objects and NPCs_169
+  - first:
+      213: 21300340
+    second: NES - Super Mario Bros - Items Objects and NPCs_170
+  - first:
+      213: 21300342
+    second: NES - Super Mario Bros - Items Objects and NPCs_171
+  - first:
+      213: 21300344
+    second: NES - Super Mario Bros - Items Objects and NPCs_172
+  - first:
+      213: 21300346
+    second: NES - Super Mario Bros - Items Objects and NPCs_173
+  - first:
+      213: 21300348
+    second: NES - Super Mario Bros - Items Objects and NPCs_174
+  - first:
+      213: 21300350
+    second: NES - Super Mario Bros - Items Objects and NPCs_175
+  - first:
+      213: 21300352
+    second: NES - Super Mario Bros - Items Objects and NPCs_176
+  - first:
+      213: 21300354
+    second: NES - Super Mario Bros - Items Objects and NPCs_177
+  - first:
+      213: 21300356
+    second: NES - Super Mario Bros - Items Objects and NPCs_178
+  - first:
+      213: 21300358
+    second: NES - Super Mario Bros - Items Objects and NPCs_179
+  - first:
+      213: 21300360
+    second: NES - Super Mario Bros - Items Objects and NPCs_180
+  - first:
+      213: 21300362
+    second: NES - Super Mario Bros - Items Objects and NPCs_181
+  - first:
+      213: 21300364
+    second: NES - Super Mario Bros - Items Objects and NPCs_182
+  - first:
+      213: 21300366
+    second: NES - Super Mario Bros - Items Objects and NPCs_183
+  - first:
+      213: 21300368
+    second: NES - Super Mario Bros - Items Objects and NPCs_184
+  - first:
+      213: 21300370
+    second: NES - Super Mario Bros - Items Objects and NPCs_185
+  - first:
+      213: 21300372
+    second: NES - Super Mario Bros - Items Objects and NPCs_186
+  - first:
+      213: 21300374
+    second: NES - Super Mario Bros - Items Objects and NPCs_187
+  - first:
+      213: 21300376
+    second: NES - Super Mario Bros - Items Objects and NPCs_188
+  - first:
+      213: 21300378
+    second: NES - Super Mario Bros - Items Objects and NPCs_189
+  - first:
+      213: 21300380
+    second: NES - Super Mario Bros - Items Objects and NPCs_190
+  - first:
+      213: 21300382
+    second: NES - Super Mario Bros - Items Objects and NPCs_191
+  - first:
+      213: 21300384
+    second: NES - Super Mario Bros - Items Objects and NPCs_192
+  - first:
+      213: 21300386
+    second: NES - Super Mario Bros - Items Objects and NPCs_193
+  - first:
+      213: 21300388
+    second: NES - Super Mario Bros - Items Objects and NPCs_194
+  - first:
+      213: 21300390
+    second: NES - Super Mario Bros - Items Objects and NPCs_195
+  - first:
+      213: 21300392
+    second: NES - Super Mario Bros - Items Objects and NPCs_196
+  - first:
+      213: 21300394
+    second: NES - Super Mario Bros - Items Objects and NPCs_197
+  - first:
+      213: 21300396
+    second: NES - Super Mario Bros - Items Objects and NPCs_198
+  - first:
+      213: 21300398
+    second: NES - Super Mario Bros - Items Objects and NPCs_199
+  - first:
+      213: 21300400
+    second: NES - Super Mario Bros - Items Objects and NPCs_200
+  - first:
+      213: 21300402
+    second: NES - Super Mario Bros - Items Objects and NPCs_201
+  - first:
+      213: 21300404
+    second: NES - Super Mario Bros - Items Objects and NPCs_202
+  - first:
+      213: 21300406
+    second: NES - Super Mario Bros - Items Objects and NPCs_203
+  - first:
+      213: 21300408
+    second: NES - Super Mario Bros - Items Objects and NPCs_204
+  - first:
+      213: 21300410
+    second: NES - Super Mario Bros - Items Objects and NPCs_205
+  - first:
+      213: 21300412
+    second: NES - Super Mario Bros - Items Objects and NPCs_206
+  - first:
+      213: 21300414
+    second: NES - Super Mario Bros - Items Objects and NPCs_207
+  - first:
+      213: 21300416
+    second: NES - Super Mario Bros - Items Objects and NPCs_208
+  - first:
+      213: 21300418
+    second: NES - Super Mario Bros - Items Objects and NPCs_209
+  - first:
+      213: 21300420
+    second: NES - Super Mario Bros - Items Objects and NPCs_210
+  - first:
+      213: 21300422
+    second: NES - Super Mario Bros - Items Objects and NPCs_211
+  - first:
+      213: 21300424
+    second: NES - Super Mario Bros - Items Objects and NPCs_212
+  - first:
+      213: 21300426
+    second: NES - Super Mario Bros - Items Objects and NPCs_213
+  - first:
+      213: 21300428
+    second: NES - Super Mario Bros - Items Objects and NPCs_214
+  - first:
+      213: 21300430
+    second: NES - Super Mario Bros - Items Objects and NPCs_215
+  - first:
+      213: 21300432
+    second: NES - Super Mario Bros - Items Objects and NPCs_216
+  - first:
+      213: 21300434
+    second: NES - Super Mario Bros - Items Objects and NPCs_217
+  - first:
+      213: 21300436
+    second: NES - Super Mario Bros - Items Objects and NPCs_218
+  - first:
+      213: 21300438
+    second: NES - Super Mario Bros - Items Objects and NPCs_219
+  - first:
+      213: 21300440
+    second: NES - Super Mario Bros - Items Objects and NPCs_220
+  - first:
+      213: 21300442
+    second: NES - Super Mario Bros - Items Objects and NPCs_221
+  - first:
+      213: 21300444
+    second: NES - Super Mario Bros - Items Objects and NPCs_222
+  - first:
+      213: 21300446
+    second: NES - Super Mario Bros - Items Objects and NPCs_223
+  - first:
+      213: 21300448
+    second: NES - Super Mario Bros - Items Objects and NPCs_224
+  - first:
+      213: 21300450
+    second: NES - Super Mario Bros - Items Objects and NPCs_225
+  - first:
+      213: 21300452
+    second: NES - Super Mario Bros - Items Objects and NPCs_226
+  - first:
+      213: 21300454
+    second: NES - Super Mario Bros - Items Objects and NPCs_227
+  - first:
+      213: 21300456
+    second: NES - Super Mario Bros - Items Objects and NPCs_228
+  - first:
+      213: 21300458
+    second: NES - Super Mario Bros - Items Objects and NPCs_229
+  - first:
+      213: 21300460
+    second: NES - Super Mario Bros - Items Objects and NPCs_230
+  - first:
+      213: 21300462
+    second: NES - Super Mario Bros - Items Objects and NPCs_231
+  - first:
+      213: 21300464
+    second: NES - Super Mario Bros - Items Objects and NPCs_232
+  - first:
+      213: 21300466
+    second: NES - Super Mario Bros - Items Objects and NPCs_233
+  - first:
+      213: 21300468
+    second: NES - Super Mario Bros - Items Objects and NPCs_234
+  - first:
+      213: 21300470
+    second: NES - Super Mario Bros - Items Objects and NPCs_235
+  - first:
+      213: 21300472
+    second: NES - Super Mario Bros - Items Objects and NPCs_236
+  - first:
+      213: 21300474
+    second: NES - Super Mario Bros - Items Objects and NPCs_237
+  - first:
+      213: 21300476
+    second: NES - Super Mario Bros - Items Objects and NPCs_238
+  - first:
+      213: 21300478
+    second: NES - Super Mario Bros - Items Objects and NPCs_239
+  - first:
+      213: 21300480
+    second: NES - Super Mario Bros - Items Objects and NPCs_240
+  - first:
+      213: 21300482
+    second: NES - Super Mario Bros - Items Objects and NPCs_241
+  - first:
+      213: 21300484
+    second: NES - Super Mario Bros - Items Objects and NPCs_242
+  - first:
+      213: 21300486
+    second: NES - Super Mario Bros - Items Objects and NPCs_243
+  - first:
+      213: 21300488
+    second: NES - Super Mario Bros - Items Objects and NPCs_244
+  - first:
+      213: 21300490
+    second: NES - Super Mario Bros - Items Objects and NPCs_245
+  - first:
+      213: 21300492
+    second: NES - Super Mario Bros - Items Objects and NPCs_246
+  - first:
+      213: 21300494
+    second: NES - Super Mario Bros - Items Objects and NPCs_247
+  - first:
+      213: 21300496
+    second: NES - Super Mario Bros - Items Objects and NPCs_248
+  - first:
+      213: 21300498
+    second: NES - Super Mario Bros - Items Objects and NPCs_249
+  - first:
+      213: 21300500
+    second: NES - Super Mario Bros - Items Objects and NPCs_250
+  - first:
+      213: 21300502
+    second: NES - Super Mario Bros - Items Objects and NPCs_251
+  - first:
+      213: 21300504
+    second: NES - Super Mario Bros - Items Objects and NPCs_252
+  - first:
+      213: 21300506
+    second: NES - Super Mario Bros - Items Objects and NPCs_253
+  - first:
+      213: 21300508
+    second: NES - Super Mario Bros - Items Objects and NPCs_254
+  - first:
+      213: 21300510
+    second: NES - Super Mario Bros - Items Objects and NPCs_255
+  - first:
+      213: 21300512
+    second: NES - Super Mario Bros - Items Objects and NPCs_256
+  - first:
+      213: 21300514
+    second: NES - Super Mario Bros - Items Objects and NPCs_257
+  - first:
+      213: 21300516
+    second: NES - Super Mario Bros - Items Objects and NPCs_258
+  - first:
+      213: 21300518
+    second: NES - Super Mario Bros - Items Objects and NPCs_259
+  - first:
+      213: 21300520
+    second: NES - Super Mario Bros - Items Objects and NPCs_260
+  - first:
+      213: 21300522
+    second: NES - Super Mario Bros - Items Objects and NPCs_261
+  - first:
+      213: 21300524
+    second: NES - Super Mario Bros - Items Objects and NPCs_262
+  - first:
+      213: 21300526
+    second: NES - Super Mario Bros - Items Objects and NPCs_263
+  - first:
+      213: 21300528
+    second: NES - Super Mario Bros - Items Objects and NPCs_264
+  - first:
+      213: 21300530
+    second: NES - Super Mario Bros - Items Objects and NPCs_265
+  - first:
+      213: 21300532
+    second: NES - Super Mario Bros - Items Objects and NPCs_266
+  - first:
+      213: 21300534
+    second: NES - Super Mario Bros - Items Objects and NPCs_267
+  - first:
+      213: 21300536
+    second: NES - Super Mario Bros - Items Objects and NPCs_268
+  - first:
+      213: 21300538
+    second: NES - Super Mario Bros - Items Objects and NPCs_269
+  - first:
+      213: 21300540
+    second: NES - Super Mario Bros - Items Objects and NPCs_270
+  - first:
+      213: 21300542
+    second: NES - Super Mario Bros - Items Objects and NPCs_271
+  - first:
+      213: 21300544
+    second: NES - Super Mario Bros - Items Objects and NPCs_272
+  - first:
+      213: 21300546
+    second: NES - Super Mario Bros - Items Objects and NPCs_273
+  - first:
+      213: 21300548
+    second: NES - Super Mario Bros - Items Objects and NPCs_274
+  - first:
+      213: 21300550
+    second: NES - Super Mario Bros - Items Objects and NPCs_275
+  - first:
+      213: 21300552
+    second: NES - Super Mario Bros - Items Objects and NPCs_276
+  - first:
+      213: 21300554
+    second: NES - Super Mario Bros - Items Objects and NPCs_277
+  - first:
+      213: 21300556
+    second: NES - Super Mario Bros - Items Objects and NPCs_278
+  - first:
+      213: 21300558
+    second: NES - Super Mario Bros - Items Objects and NPCs_279
+  - first:
+      213: 21300560
+    second: NES - Super Mario Bros - Items Objects and NPCs_280
+  - first:
+      213: 21300562
+    second: NES - Super Mario Bros - Items Objects and NPCs_281
+  - first:
+      213: 21300564
+    second: NES - Super Mario Bros - Items Objects and NPCs_282
+  - first:
+      213: 21300566
+    second: NES - Super Mario Bros - Items Objects and NPCs_283
+  - first:
+      213: 21300568
+    second: NES - Super Mario Bros - Items Objects and NPCs_284
+  - first:
+      213: 21300570
+    second: NES - Super Mario Bros - Items Objects and NPCs_285
+  - first:
+      213: 21300572
+    second: NES - Super Mario Bros - Items Objects and NPCs_286
+  - first:
+      213: 21300574
+    second: NES - Super Mario Bros - Items Objects and NPCs_287
+  - first:
+      213: 21300576
+    second: NES - Super Mario Bros - Items Objects and NPCs_288
+  - first:
+      213: 21300578
+    second: NES - Super Mario Bros - Items Objects and NPCs_289
+  - first:
+      213: 21300580
+    second: NES - Super Mario Bros - Items Objects and NPCs_290
+  - first:
+      213: 21300582
+    second: NES - Super Mario Bros - Items Objects and NPCs_291
+  - first:
+      213: 21300584
+    second: NES - Super Mario Bros - Items Objects and NPCs_292
+  - first:
+      213: 21300586
+    second: NES - Super Mario Bros - Items Objects and NPCs_293
+  - first:
+      213: 21300588
+    second: NES - Super Mario Bros - Items Objects and NPCs_294
+  - first:
+      213: 21300590
+    second: NES - Super Mario Bros - Items Objects and NPCs_295
+  - first:
+      213: 21300592
+    second: NES - Super Mario Bros - Items Objects and NPCs_296
+  - first:
+      213: 21300594
+    second: NES - Super Mario Bros - Items Objects and NPCs_297
+  - first:
+      213: 21300596
+    second: NES - Super Mario Bros - Items Objects and NPCs_298
+  - first:
+      213: 21300598
+    second: NES - Super Mario Bros - Items Objects and NPCs_299
+  - first:
+      213: 21300600
+    second: NES - Super Mario Bros - Items Objects and NPCs_300
+  - first:
+      213: 21300602
+    second: NES - Super Mario Bros - Items Objects and NPCs_301
+  - first:
+      213: 21300604
+    second: NES - Super Mario Bros - Items Objects and NPCs_302
+  - first:
+      213: 21300606
+    second: NES - Super Mario Bros - Items Objects and NPCs_303
+  - first:
+      213: 21300608
+    second: NES - Super Mario Bros - Items Objects and NPCs_304
+  - first:
+      213: 21300610
+    second: NES - Super Mario Bros - Items Objects and NPCs_305
+  - first:
+      213: 21300612
+    second: NES - Super Mario Bros - Items Objects and NPCs_306
+  - first:
+      213: 21300614
+    second: NES - Super Mario Bros - Items Objects and NPCs_307
+  - first:
+      213: 21300616
+    second: NES - Super Mario Bros - Items Objects and NPCs_308
+  - first:
+      213: 21300618
+    second: NES - Super Mario Bros - Items Objects and NPCs_309
+  - first:
+      213: 21300620
+    second: NES - Super Mario Bros - Items Objects and NPCs_310
+  - first:
+      213: 21300622
+    second: NES - Super Mario Bros - Items Objects and NPCs_311
+  - first:
+      213: 21300624
+    second: NES - Super Mario Bros - Items Objects and NPCs_312
+  - first:
+      213: 21300626
+    second: NES - Super Mario Bros - Items Objects and NPCs_313
+  - first:
+      213: 21300628
+    second: NES - Super Mario Bros - Items Objects and NPCs_314
+  - first:
+      213: 21300630
+    second: NES - Super Mario Bros - Items Objects and NPCs_315
+  - first:
+      213: 21300632
+    second: NES - Super Mario Bros - Items Objects and NPCs_316
+  - first:
+      213: 21300634
+    second: NES - Super Mario Bros - Items Objects and NPCs_317
+  - first:
+      213: 21300636
+    second: NES - Super Mario Bros - Items Objects and NPCs_318
+  - first:
+      213: 21300638
+    second: NES - Super Mario Bros - Items Objects and NPCs_319
+  - first:
+      213: 21300640
+    second: NES - Super Mario Bros - Items Objects and NPCs_320
+  - first:
+      213: 21300642
+    second: NES - Super Mario Bros - Items Objects and NPCs_321
+  - first:
+      213: 21300644
+    second: NES - Super Mario Bros - Items Objects and NPCs_322
+  - first:
+      213: 21300646
+    second: NES - Super Mario Bros - Items Objects and NPCs_323
+  - first:
+      213: 21300648
+    second: NES - Super Mario Bros - Items Objects and NPCs_324
+  - first:
+      213: 21300650
+    second: NES - Super Mario Bros - Items Objects and NPCs_325
+  - first:
+      213: 21300652
+    second: NES - Super Mario Bros - Items Objects and NPCs_326
+  - first:
+      213: 21300654
+    second: NES - Super Mario Bros - Items Objects and NPCs_327
+  - first:
+      213: 21300656
+    second: NES - Super Mario Bros - Items Objects and NPCs_328
+  - first:
+      213: 21300658
+    second: NES - Super Mario Bros - Items Objects and NPCs_329
+  - first:
+      213: 21300660
+    second: NES - Super Mario Bros - Items Objects and NPCs_330
+  - first:
+      213: 21300662
+    second: NES - Super Mario Bros - Items Objects and NPCs_331
+  - first:
+      213: 21300664
+    second: NES - Super Mario Bros - Items Objects and NPCs_332
+  - first:
+      213: 21300666
+    second: NES - Super Mario Bros - Items Objects and NPCs_333
+  - first:
+      213: 21300668
+    second: NES - Super Mario Bros - Items Objects and NPCs_334
+  - first:
+      213: 21300670
+    second: NES - Super Mario Bros - Items Objects and NPCs_335
+  - first:
+      213: 21300672
+    second: NES - Super Mario Bros - Items Objects and NPCs_336
+  - first:
+      213: 21300674
+    second: NES - Super Mario Bros - Items Objects and NPCs_337
+  - first:
+      213: 21300676
+    second: NES - Super Mario Bros - Items Objects and NPCs_338
+  - first:
+      213: 21300678
+    second: NES - Super Mario Bros - Items Objects and NPCs_339
+  - first:
+      213: 21300680
+    second: NES - Super Mario Bros - Items Objects and NPCs_340
+  - first:
+      213: 21300682
+    second: NES - Super Mario Bros - Items Objects and NPCs_341
+  - first:
+      213: 21300684
+    second: NES - Super Mario Bros - Items Objects and NPCs_342
+  - first:
+      213: 21300686
+    second: NES - Super Mario Bros - Items Objects and NPCs_343
+  - first:
+      213: 21300688
+    second: NES - Super Mario Bros - Items Objects and NPCs_344
+  - first:
+      213: 21300690
+    second: NES - Super Mario Bros - Items Objects and NPCs_345
+  - first:
+      213: 21300692
+    second: NES - Super Mario Bros - Items Objects and NPCs_346
+  - first:
+      213: 21300694
+    second: NES - Super Mario Bros - Items Objects and NPCs_347
+  - first:
+      213: 21300696
+    second: NES - Super Mario Bros - Items Objects and NPCs_348
+  - first:
+      213: 21300698
+    second: NES - Super Mario Bros - Items Objects and NPCs_349
+  - first:
+      213: 21300700
+    second: NES - Super Mario Bros - Items Objects and NPCs_350
+  - first:
+      213: 21300702
+    second: NES - Super Mario Bros - Items Objects and NPCs_351
+  - first:
+      213: 21300704
+    second: NES - Super Mario Bros - Items Objects and NPCs_352
+  - first:
+      213: 21300706
+    second: NES - Super Mario Bros - Items Objects and NPCs_353
+  - first:
+      213: 21300708
+    second: NES - Super Mario Bros - Items Objects and NPCs_354
+  - first:
+      213: 21300710
+    second: NES - Super Mario Bros - Items Objects and NPCs_355
+  - first:
+      213: 21300712
+    second: NES - Super Mario Bros - Items Objects and NPCs_356
+  - first:
+      213: 21300714
+    second: NES - Super Mario Bros - Items Objects and NPCs_357
+  - first:
+      213: 21300716
+    second: NES - Super Mario Bros - Items Objects and NPCs_358
+  - first:
+      213: 21300718
+    second: NES - Super Mario Bros - Items Objects and NPCs_359
+  - first:
+      213: 21300720
+    second: NES - Super Mario Bros - Items Objects and NPCs_360
+  - first:
+      213: 21300722
+    second: NES - Super Mario Bros - Items Objects and NPCs_361
+  - first:
+      213: 21300724
+    second: NES - Super Mario Bros - Items Objects and NPCs_362
+  - first:
+      213: 21300726
+    second: NES - Super Mario Bros - Items Objects and NPCs_363
+  - first:
+      213: 21300728
+    second: NES - Super Mario Bros - Items Objects and NPCs_364
+  - first:
+      213: 21300730
+    second: NES - Super Mario Bros - Items Objects and NPCs_365
+  - first:
+      213: 21300732
+    second: NES - Super Mario Bros - Items Objects and NPCs_366
+  - first:
+      213: 21300734
+    second: NES - Super Mario Bros - Items Objects and NPCs_367
+  - first:
+      213: 21300736
+    second: NES - Super Mario Bros - Items Objects and NPCs_368
+  - first:
+      213: 21300738
+    second: NES - Super Mario Bros - Items Objects and NPCs_369
+  - first:
+      213: 21300740
+    second: NES - Super Mario Bros - Items Objects and NPCs_370
+  - first:
+      213: 21300742
+    second: NES - Super Mario Bros - Items Objects and NPCs_371
+  - first:
+      213: 21300744
+    second: NES - Super Mario Bros - Items Objects and NPCs_372
+  - first:
+      213: 21300746
+    second: NES - Super Mario Bros - Items Objects and NPCs_373
+  - first:
+      213: 21300748
+    second: NES - Super Mario Bros - Items Objects and NPCs_374
+  - first:
+      213: 21300750
+    second: NES - Super Mario Bros - Items Objects and NPCs_375
+  - first:
+      213: 21300752
+    second: NES - Super Mario Bros - Items Objects and NPCs_376
+  - first:
+      213: 21300754
+    second: NES - Super Mario Bros - Items Objects and NPCs_377
+  - first:
+      213: 21300756
+    second: NES - Super Mario Bros - Items Objects and NPCs_378
+  - first:
+      213: 21300758
+    second: NES - Super Mario Bros - Items Objects and NPCs_379
+  - first:
+      213: 21300760
+    second: NES - Super Mario Bros - Items Objects and NPCs_380
+  - first:
+      213: 21300762
+    second: NES - Super Mario Bros - Items Objects and NPCs_381
+  - first:
+      213: 21300764
+    second: NES - Super Mario Bros - Items Objects and NPCs_382
+  - first:
+      213: 21300766
+    second: NES - Super Mario Bros - Items Objects and NPCs_383
+  - first:
+      213: 21300768
+    second: NES - Super Mario Bros - Items Objects and NPCs_384
+  - first:
+      213: 21300770
+    second: NES - Super Mario Bros - Items Objects and NPCs_385
+  - first:
+      213: 21300772
+    second: NES - Super Mario Bros - Items Objects and NPCs_386
+  - first:
+      213: 21300774
+    second: NES - Super Mario Bros - Items Objects and NPCs_387
+  - first:
+      213: 21300776
+    second: NES - Super Mario Bros - Items Objects and NPCs_388
+  - first:
+      213: 21300778
+    second: NES - Super Mario Bros - Items Objects and NPCs_389
+  - first:
+      213: 21300780
+    second: NES - Super Mario Bros - Items Objects and NPCs_390
+  - first:
+      213: 21300782
+    second: NES - Super Mario Bros - Items Objects and NPCs_391
+  - first:
+      213: 21300784
+    second: NES - Super Mario Bros - Items Objects and NPCs_392
+  - first:
+      213: 21300786
+    second: NES - Super Mario Bros - Items Objects and NPCs_393
+  - first:
+      213: 21300788
+    second: NES - Super Mario Bros - Items Objects and NPCs_394
+  - first:
+      213: 21300790
+    second: NES - Super Mario Bros - Items Objects and NPCs_395
+  - first:
+      213: 21300792
+    second: NES - Super Mario Bros - Items Objects and NPCs_396
+  - first:
+      213: 21300794
+    second: NES - Super Mario Bros - Items Objects and NPCs_397
+  - first:
+      213: 21300796
+    second: NES - Super Mario Bros - Items Objects and NPCs_398
+  - first:
+      213: 21300798
+    second: NES - Super Mario Bros - Items Objects and NPCs_399
+  - first:
+      213: 21300800
+    second: NES - Super Mario Bros - Items Objects and NPCs_400
+  - first:
+      213: 21300802
+    second: NES - Super Mario Bros - Items Objects and NPCs_401
+  - first:
+      213: 21300804
+    second: NES - Super Mario Bros - Items Objects and NPCs_402
+  - first:
+      213: 21300806
+    second: NES - Super Mario Bros - Items Objects and NPCs_403
+  - first:
+      213: 21300808
+    second: NES - Super Mario Bros - Items Objects and NPCs_404
+  - first:
+      213: 21300810
+    second: NES - Super Mario Bros - Items Objects and NPCs_405
+  - first:
+      213: 21300812
+    second: NES - Super Mario Bros - Items Objects and NPCs_406
+  - first:
+      213: 21300814
+    second: NES - Super Mario Bros - Items Objects and NPCs_407
+  - first:
+      213: 21300816
+    second: NES - Super Mario Bros - Items Objects and NPCs_408
+  - first:
+      213: 21300818
+    second: NES - Super Mario Bros - Items Objects and NPCs_409
+  - first:
+      213: 21300820
+    second: NES - Super Mario Bros - Items Objects and NPCs_410
+  - first:
+      213: 21300822
+    second: NES - Super Mario Bros - Items Objects and NPCs_411
+  - first:
+      213: 21300824
+    second: NES - Super Mario Bros - Items Objects and NPCs_412
+  - first:
+      213: 21300826
+    second: NES - Super Mario Bros - Items Objects and NPCs_413
+  - first:
+      213: 21300828
+    second: NES - Super Mario Bros - Items Objects and NPCs_414
+  - first:
+      213: 21300830
+    second: NES - Super Mario Bros - Items Objects and NPCs_415
+  - first:
+      213: 21300832
+    second: NES - Super Mario Bros - Items Objects and NPCs_416
+  - first:
+      213: 21300834
+    second: NES - Super Mario Bros - Items Objects and NPCs_417
+  - first:
+      213: 21300836
+    second: NES - Super Mario Bros - Items Objects and NPCs_418
+  - first:
+      213: 21300838
+    second: NES - Super Mario Bros - Items Objects and NPCs_419
+  - first:
+      213: 21300840
+    second: NES - Super Mario Bros - Items Objects and NPCs_420
+  - first:
+      213: 21300842
+    second: NES - Super Mario Bros - Items Objects and NPCs_421
+  - first:
+      213: 21300844
+    second: NES - Super Mario Bros - Items Objects and NPCs_422
+  - first:
+      213: 21300846
+    second: NES - Super Mario Bros - Items Objects and NPCs_423
+  - first:
+      213: 21300848
+    second: NES - Super Mario Bros - Items Objects and NPCs_424
+  - first:
+      213: 21300850
+    second: NES - Super Mario Bros - Items Objects and NPCs_425
+  - first:
+      213: 21300852
+    second: NES - Super Mario Bros - Items Objects and NPCs_426
+  - first:
+      213: 21300854
+    second: NES - Super Mario Bros - Items Objects and NPCs_427
+  - first:
+      213: 21300856
+    second: NES - Super Mario Bros - Items Objects and NPCs_428
+  - first:
+      213: 21300858
+    second: NES - Super Mario Bros - Items Objects and NPCs_429
+  - first:
+      213: 21300860
+    second: NES - Super Mario Bros - Items Objects and NPCs_430
+  - first:
+      213: 21300862
+    second: NES - Super Mario Bros - Items Objects and NPCs_431
+  - first:
+      213: 21300864
+    second: NES - Super Mario Bros - Items Objects and NPCs_432
+  - first:
+      213: 21300866
+    second: NES - Super Mario Bros - Items Objects and NPCs_433
+  - first:
+      213: 21300868
+    second: NES - Super Mario Bros - Items Objects and NPCs_434
+  - first:
+      213: 21300870
+    second: NES - Super Mario Bros - Items Objects and NPCs_435
+  - first:
+      213: 21300872
+    second: NES - Super Mario Bros - Items Objects and NPCs_436
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Items Objects and NPCs_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4c0d5d2cd8f8847819362d4bb1df59
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Items Objects and NPCs_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ed64e9a326f4d46acb249b687ef7fc
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Items Objects and NPCs_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f532b91570b1fcc43a19fc722aa47a4c
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Items Objects and NPCs_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f2fed6cb5b31e40acd6b67a6897fed
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Items Objects and NPCs_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcbaec985e4a614eae7367c331d763a
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0a0aa0e3eb44bd749b595f6fdd122611
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
